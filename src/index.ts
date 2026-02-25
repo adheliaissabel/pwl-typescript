@@ -1,6 +1,8 @@
-function hello(nama: string, umur: number): string{
-    return `Selamat datang ${nama} di PWL, umur saya = ' +Umur'`;
+function hello(nama: string, umur: number): string {
+    return `Selamat datang ${nama} di PWL, umur saya = ${umur}`;
 }
+
 const mahasiswa = "Andy";
-const umur : number = 19;
+const umur: number = 19;
+
 console.log(hello(mahasiswa, umur));
