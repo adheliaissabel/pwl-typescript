@@ -1,0 +1,27 @@
+{
+  "name": "pwl-typescript",
+  "version": "1.0.0",
+  "description": "Belajar memahami konsep dari sypescript dasar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adheliaissabel/pwl-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/adheliaissabel/pwl-typescript/issues"
+  },
+  "homepage": "https://github.com/adheliaissabel/pwl-typescript#readme",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
